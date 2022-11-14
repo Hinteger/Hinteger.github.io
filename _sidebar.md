@@ -1,0 +1,56 @@
+- [Home](/)
+- [Ingegneria del software]()
+  - Basics
+  - [OOP]()
+    - Sviluppo agile
+    - [Design Patterns]()
+      - [Pattern Creazionali]()
+        - Factory Method
+        - Abstract Factory
+        - Builder
+        - Prototype
+        - Singleton
+      - [Pattern Strutturali]()
+        - Adapter
+        - Bridge
+        - Composite
+        - Decorator
+        - Facade
+        - Flyweight
+        - Proxy
+      - [Pattern Comportamentali]()
+        - Chain of Responsibility
+        - Command
+        - Iterator
+        - Mediator
+        - Memento
+        - Observer
+        - State
+        - Strategy
+        - Template Method
+        - Visitor
+    - [Software testing]()
+      - JUnit
+      - Mockito
+- [Reti]()
+  - Introduzione
+  - Livello 7 - Applicazione
+  - Livello 4 - Trasporto
+  - Livello 3 - Rete
+  - Livello 2 - Link
+- [Web Applications]()
+  - [Client]()
+    - HTML
+    - CSS
+    - DOM
+    - [JavaScript]()
+      - JavaScript
+      - Angular
+      - Typescript
+    - Thymeleaf
+  - [Server]()
+    - JDBC
+    - REST API
+    - Spring Boot
+    - Servlet
+    - J2EE
